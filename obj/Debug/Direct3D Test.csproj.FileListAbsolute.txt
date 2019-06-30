@@ -1,0 +1,18 @@
+C:\Users\user1\source\repos\Direct3D Test\bin\Debug\Direct3D Test.exe.config
+C:\Users\user1\source\repos\Direct3D Test\bin\Debug\Direct3D Test.exe
+C:\Users\user1\source\repos\Direct3D Test\bin\Debug\Direct3D Test.pdb
+C:\Users\user1\source\repos\Direct3D Test\bin\Debug\SharpDX.dll
+C:\Users\user1\source\repos\Direct3D Test\bin\Debug\SharpDX.pdb
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\MainWindow.g.cs
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\App.g.cs
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test_MarkupCompile.cache
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test_MarkupCompile.lref
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\MainWindow.baml
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test.g.resources
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D_Test.Properties.Resources.resources
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test.csproj.CopyComplete
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test.exe
+C:\Users\user1\source\repos\Direct3D Test\obj\Debug\Direct3D Test.pdb
