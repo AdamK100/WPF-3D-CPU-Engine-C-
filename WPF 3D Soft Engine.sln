@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF 3D Soft Engine", "WPF 3D Soft Engine.csproj", "{75CF7E09-9999-4F73-82EF-F88C83C71044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CF7E09-9999-4F73-82EF-F88C83C71044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CF7E09-9999-4F73-82EF-F88C83C71044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CF7E09-9999-4F73-82EF-F88C83C71044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CF7E09-9999-4F73-82EF-F88C83C71044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA185B5-0213-46A3-B455-8AF9F62EDCBE}
+	EndGlobalSection
+EndGlobal
