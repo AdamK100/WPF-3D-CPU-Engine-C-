@@ -73,6 +73,10 @@ public partial class MainWindow : Window
         //Update is executed every frame
         public void Update(object sender, EventArgs e)
         {
+            if (RotY.Text != "")
+            {
+                RotY.Text = (int.Parse(RotY.Text) + 1).ToString();
+            }
             if (ismeshavailable == true)
             {
                 vertPx.Clear();
